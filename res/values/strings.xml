@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalorieCalculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="calories">Calories</string>
+    <string name="per">per</string>
+    <string name="grams">grams</string>
+    <string name="grams_of_food">grams of food\nconsumed</string>
+    <string name="calories_total_answer">Total calories in item</string>
+    <string name="calories_per_hundred_grams_answer">Calories per 100g:</string>
+    
+	
+</resources>
